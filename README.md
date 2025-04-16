@@ -4,5 +4,5 @@
 
 Open powershell as **Administrator** : 
 ``` Powershell
-powershell -ExecutionPolicy bypass ./main.ps1
+powershell -ExecutionPolicy bypass .\main.ps1
 ```
